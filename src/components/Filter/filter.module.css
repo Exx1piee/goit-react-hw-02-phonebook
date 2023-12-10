@@ -1,0 +1,9 @@
+.title {
+    font-size: 26px;
+}
+
+.input {
+    border-radius: 16px;
+    border: solid 1px rgb(22, 22, 22);
+    height: 28px;
+}

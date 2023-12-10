@@ -1,0 +1,32 @@
+.btn {
+    padding: 12px 24px;
+    color: aliceblue;
+    background-color: rgb(162, 18, 18);
+    border-radius: 24px;
+    border: none;
+    width: 150px;
+    margin-left: auto;
+    margin-top: 15px;
+    height: 50px;
+}
+.btn:hover{
+    background-color: rgb(87, 2, 2);  
+}
+.item {
+    display: flex;
+    justify-content: center;
+    
+    margin-top: 20px;
+
+border: solid 1px rgb(0, 0, 0);
+padding: 4px 10px;
+}
+
+.name {
+    font-size: 28px;
+}
+
+.tel {
+font-size: 16px;
+color: rgb(35, 154, 209);
+}
